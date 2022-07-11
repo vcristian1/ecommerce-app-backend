@@ -34,4 +34,4 @@ The following screenshots show the application's GET routes to return all catego
 ![screenshot of insomnia](./assets/screenshot4.png)
 
 ## Video Walkthrough
-[Video]()
+[ScreenCastify Link](https://drive.google.com/file/d/1L9mWiFMAGyheEg8q8AfY5NkGg8YQmze2/view?usp=sharing)
